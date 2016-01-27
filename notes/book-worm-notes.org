@@ -5,7 +5,7 @@
    How can we use available technologies, or develop a new one. We
    need to interface with what is already available.
 
-*** Think about cost:
+*** Think about cost
     - implement something new
     - implement something new on top of what is already there
 *** Complexity:
@@ -35,10 +35,9 @@
 
 
 * Group
-  Javier Chavez 
-  Katherine
-  Alex Baker
-  Javier Pena
-  Jameson Hansen
- 
+  + Javier Chavez 
+  + Katherine
+  + Alex Baker
+  + Javier Pena
+  + Jameson Hansen
 
