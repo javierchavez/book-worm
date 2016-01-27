@@ -1,17 +1,31 @@
 * BookWorm
   Making a Library application
 
-  Think about barcodes, rfid, nfc, etc.
+** Technology 
+   How can we use available technologies, or develop a new one. We
+   need to interface with what is already available.
 
-  * Main functionality
-    - books
-    - catelog
-    - digital items
-    - customer happiness
+*** Think about cost:
+    - implement something new
+    - implement something new on top of what is already there
+*** Complexity:
+    - Employees have to learn a new system.
+   
+*** Posibilities
+    - barcodes 
+    - rfid 
+    - nfc
+
+*** Software
+    - Reccomendation engine
+    - Search engine
+
+** Main functionality goals
+  - books
+  - catelog
+  - digital items
+  - customer happiness
     
-  * Maybe no more librian
-    - Recommendation engine
-    - Stategy for searching 
 
 ** Want to abstract the functionality so that we can use it in
   1. EMR
