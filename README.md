@@ -1,4 +1,4 @@
-# Book Worm
+# BookWorm
 For Library's entering the internet of things.
 
 ### Authors
