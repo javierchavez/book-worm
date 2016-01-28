@@ -47,12 +47,13 @@ ammenities.
 Problem with getting books online
     There is no standard for viewiing books online.
 
-Stuff that we should avoid
-    Mobile application
-    technology
+** Other thoughts
+- Stuff that we should avoid
+  Mobile application
+  technology
     
-Stuff that is very important
-    Cost
+- Stuff that is very important
+  Cost
     
 
 
