@@ -20,6 +20,42 @@
     - Reccomendation engine
     - Search engine
 
+*** DB (mueen)
+    - what are some imidiate hardships to think about
+    maybe even bottlenecks.
+    - how to get it into the DB
+    - redunancy? DB type NoSQL SQL
+    - set up columns (for generic)
+    
+*** Speed ()
+
+*** Algorithms (sean?)
+    
+
+* What do libraries want.
+Talked to Patrick Kelley (part of the library commitee). 
+Goals:
+They are trying to get more people in the libs.
+
+is it busy?
+renting rooms
+checking space availibility
+complaints (power)
+getting special collections online 
+    partnership with amazon gazelle but for books.
+ammenities.
+Problem with getting books online
+    There is no standard for viewiing books online.
+
+Stuff that we should avoid
+    Mobile application
+    technology
+    
+Stuff that is very important
+    Cost
+    
+
+
 ** Main functionality goals
   - books
   - catelog
