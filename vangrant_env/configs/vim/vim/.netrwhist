@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/aebaker/Workspace/openstack/horizon-dev/vagrant_dev/horizon'
+let g:netrw_dirhist_2='/home/aebaker/Workspace/vagrant_dev/vdr_dashboard/vdr_quick_start/configuration'
+let g:netrw_dirhist_3='/home/aebaker/Workspace/vdr_dev/vdr/files/vdr_quick_start/vdr_launcher/templates'
+let g:netrw_dirhist_4='/home/aebaker/Workspace/vdr_dev/vdr/files/vdr_quick_start/api'
+let g:netrw_dirhist_5='/home/aebaker/Workspace/vdr_dev/vdr/templates'
+let g:netrw_dirhist_6='/home/aebaker/Workspace/vdr_dev/vdr/files/vdr_quick_start/vdr_launcher'
